@@ -1,0 +1,15 @@
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\obj\Debug\net8.0\SistemaDeLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\obj\Debug\net8.0\SistemaDeLogin.AssemblyInfoInputs.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\obj\Debug\net8.0\SistemaDeLogin.AssemblyInfo.cs
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\obj\Debug\net8.0\SistemaDeLogin.csproj.CoreCompileInputs.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\obj\Debug\net8.0\SistemaDeLogin.sourcelink.json
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\bin\Debug\net8.0\SistemaDeLogin.exe
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\bin\Debug\net8.0\SistemaDeLogin.deps.json
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\bin\Debug\net8.0\SistemaDeLogin.runtimeconfig.json
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\bin\Debug\net8.0\SistemaDeLogin.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\bin\Debug\net8.0\SistemaDeLogin.pdb
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\obj\Debug\net8.0\SistemaDeLogin.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\obj\Debug\net8.0\refint\SistemaDeLogin.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\obj\Debug\net8.0\SistemaDeLogin.pdb
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\obj\Debug\net8.0\SistemaDeLogin.genruntimeconfig.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia4.SistemaDeLogin\SistemaDeLogin\obj\Debug\net8.0\ref\SistemaDeLogin.dll
