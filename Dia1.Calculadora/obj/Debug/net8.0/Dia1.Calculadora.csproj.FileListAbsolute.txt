@@ -1,0 +1,15 @@
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\bin\Debug\net8.0\Dia1.Calculadora.exe
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\bin\Debug\net8.0\Dia1.Calculadora.deps.json
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\bin\Debug\net8.0\Dia1.Calculadora.runtimeconfig.json
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\bin\Debug\net8.0\Dia1.Calculadora.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\bin\Debug\net8.0\Dia1.Calculadora.pdb
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\obj\Debug\net8.0\Dia1.Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\obj\Debug\net8.0\Dia1.Calculadora.AssemblyInfoInputs.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\obj\Debug\net8.0\Dia1.Calculadora.AssemblyInfo.cs
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\obj\Debug\net8.0\Dia1.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\obj\Debug\net8.0\Dia1.Calculadora.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\obj\Debug\net8.0\refint\Dia1.Calculadora.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\obj\Debug\net8.0\Dia1.Calculadora.pdb
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\obj\Debug\net8.0\Dia1.Calculadora.genruntimeconfig.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\obj\Debug\net8.0\ref\Dia1.Calculadora.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\7_days_code\Dia1.Calculadora\obj\Debug\net8.0\Dia1.Calculadora.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\obj\Debug\net8.0\JogoDeAdivinhacaoComDicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\obj\Debug\net8.0\JogoDeAdivinhacaoComDicas.AssemblyInfoInputs.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\obj\Debug\net8.0\JogoDeAdivinhacaoComDicas.AssemblyInfo.cs
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\obj\Debug\net8.0\JogoDeAdivinhacaoComDicas.csproj.CoreCompileInputs.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\obj\Debug\net8.0\JogoDeAdivinhacaoComDicas.sourcelink.json
+c:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\bin\Debug\net8.0\JogoDeAdivinhacaoComDicas.exe
+c:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\bin\Debug\net8.0\JogoDeAdivinhacaoComDicas.deps.json
+c:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\bin\Debug\net8.0\JogoDeAdivinhacaoComDicas.runtimeconfig.json
+c:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\bin\Debug\net8.0\JogoDeAdivinhacaoComDicas.dll
+c:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\bin\Debug\net8.0\JogoDeAdivinhacaoComDicas.pdb
+c:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\obj\Debug\net8.0\JogoDeAdivinhacaoComDicas.dll
+c:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\obj\Debug\net8.0\refint\JogoDeAdivinhacaoComDicas.dll
+c:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\obj\Debug\net8.0\JogoDeAdivinhacaoComDicas.pdb
+c:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\obj\Debug\net8.0\JogoDeAdivinhacaoComDicas.genruntimeconfig.cache
+c:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia3.JogoDeAdivinhacaoComDicas\JogoDeAdivinhacaoComDicas\obj\Debug\net8.0\ref\JogoDeAdivinhacaoComDicas.dll
