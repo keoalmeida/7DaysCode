@@ -1,0 +1,15 @@
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\obj\Debug\net8.0\GerenciadorDeTarefasComPrioridades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\obj\Debug\net8.0\GerenciadorDeTarefasComPrioridades.AssemblyInfoInputs.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\obj\Debug\net8.0\GerenciadorDeTarefasComPrioridades.AssemblyInfo.cs
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\obj\Debug\net8.0\GerenciadorDeTarefasComPrioridades.csproj.CoreCompileInputs.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\obj\Debug\net8.0\GerenciadorDeTarefasComPrioridades.sourcelink.json
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\bin\Debug\net8.0\GerenciadorDeTarefasComPrioridades.exe
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\bin\Debug\net8.0\GerenciadorDeTarefasComPrioridades.deps.json
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\bin\Debug\net8.0\GerenciadorDeTarefasComPrioridades.runtimeconfig.json
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\bin\Debug\net8.0\GerenciadorDeTarefasComPrioridades.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\bin\Debug\net8.0\GerenciadorDeTarefasComPrioridades.pdb
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\obj\Debug\net8.0\GerenciadorDeTarefasComPrioridades.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\obj\Debug\net8.0\refint\GerenciadorDeTarefasComPrioridades.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\obj\Debug\net8.0\GerenciadorDeTarefasComPrioridades.pdb
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\obj\Debug\net8.0\GerenciadorDeTarefasComPrioridades.genruntimeconfig.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\7DaysCode\Dia5.GerenciadorDeTarefasComPrioridades\GerenciadorDeTarefasComPrioridades\obj\Debug\net8.0\ref\GerenciadorDeTarefasComPrioridades.dll

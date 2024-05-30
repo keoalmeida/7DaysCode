@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GerenciadorDeTarefasComPrioridades/1.0.0": {
+        "runtime": {
+          "GerenciadorDeTarefasComPrioridades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerenciadorDeTarefasComPrioridades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
