@@ -1,0 +1,3 @@
+[submodule "Dia7.BankoKeo/BanKoKeo"]
+	path = Dia7.BankoKeo/BanKoKeo
+	url = https://github.com/keodevspace/BanKoKeo.git
